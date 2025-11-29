@@ -177,9 +177,9 @@ The app will run on `http://localhost:5000`
 
 ## 🚀 **Demo & Repository**
 
-- **Mobile App Demo:** [View Demo]([https://drive.google.com/file/d/13FUB_BTgj8aNR-Fe4f_Goq0LWL2ZD5Vc/view?usp=drive_link](https://drive.google.com/file/d/1et-ZYEHPJesb3Fj9B_Hm2rnXzsBtmceG/view?usp=sharing))  
-- **Website Demo:** [View Demo]([https://drive.google.com/file/d/1HQcChlEwSWkaLwUpcOrgU_Qo-Zf1q2rO/view?usp=sharing](https://drive.google.com/file/d/1W-p7KFq5PGk9SEPdmKxLDhVH8oiDogj0/view?usp=sharing))   
-- **Demo Video Folder:** [Google Drive]([https://drive.google.com/drive/folders/1WPglLx0PNMoKTtQnBXeq91NgMV_8fMQL?usp=drive_link](https://drive.google.com/drive/folders/1YGcNZ2p9xm98tMiLO3Z6WEWFsvzyXQH5?usp=drive_link))
+- **Mobile App Demo:** [View Demo](https://drive.google.com/file/d/1et-ZYEHPJesb3Fj9B_Hm2rnXzsBtmceG/view)  
+- **Website Demo:** [View Demo](https://drive.google.com/file/d/1W-p7KFq5PGk9SEPdmKxLDhVH8oiDogj0/view)   
+- **Demo Video Folder:** [Google Drive](https://drive.google.com/drive/folders/1YGcNZ2p9xm98tMiLO3Z6WEWFsvzyXQH5?usp=drive_link)
 
 ---
 ## 👩‍💻 **Team Gyatah**
