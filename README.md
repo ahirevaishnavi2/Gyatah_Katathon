@@ -1,4 +1,4 @@
-# Gatyah - Where Motion is Intelligent
+# Gyatah - Where Motion is Intelligent
 ### **Overview**
 
 **Gyatah**  is an **AI-driven, real-time geo-intelligence platform** that analyzes traffic, mobility, and environmental data to build smarter, greener cities.  
